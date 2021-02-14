@@ -7,4 +7,4 @@ This visualization shows the Debt-to-GDP roatio of 28 countries from 1995 to 201
 <div class="flourish-embed flourish-chart" data-src="visualisation/5298237"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 
-[Go back to main page](</README.md>)
+[Go back to main page](<https://iriswzi.github.io/wanzhiz-portfolio/>)
