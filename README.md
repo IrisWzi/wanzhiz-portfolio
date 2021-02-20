@@ -9,4 +9,5 @@ I am compeletely new to the field of design and data visualization, but I have a
 
 # Portfolio
 [Visualizing government debt](/gov_debt.md)
+
 [Assignment 3 & 4: Critique by Design](/ass34/md)
