@@ -23,6 +23,8 @@ I reflected on their suggestions and agreed that the bars seemed unnecessary sin
 ## Final data visualization
 This is my final redesign.
 
+I chose to use area chart to show the US demographic percentage change projection to 2050. It shows the growing minority population is projected to account for more than 50% of US population by 2045. The white population area is gray because it is not the focus of this chart. I divided the y-axis by 25% because 50% is the turning point. I also changed the title to highlight the growing minority population. 
+
 <div class="flourish-embed flourish-chart" data-src="visualisation/5346352"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 
