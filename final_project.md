@@ -6,6 +6,10 @@ It will first discuss the huge negatve impact the pandemic has on people's menta
 
 ## Sketches
 
+![image](<final_sketch1.jpg>)
+
+![image](<final_sketch2.jpg>)
+
 ## Data
 
 One of the main data sources would be [US Censor Bureau Household Pulse Survey](https://www.census.gov/programs-surveys/household-pulse-survey/data.html), which reflects how people's lives have been impacted by the coronavirus pandemic.
