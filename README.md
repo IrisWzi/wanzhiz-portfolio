@@ -11,3 +11,5 @@ I am compeletely new to the field of design and data visualization, but I have a
 [Visualizing government debt](/gov_debt.md)
 
 [Critique by Design](/ass34.md)
+
+[Final Project](/final_project.md)
