@@ -17,7 +17,7 @@
 
 ![img](p5.png)
 
-![img](help-4955863.jpg.png)
+![img](help-4955863.jpg)
 
 
 ## User Research and Interviews
