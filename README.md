@@ -12,4 +12,6 @@ I am compeletely new to the field of design and data visualization, but I have a
 
 [Critique by Design](/ass34.md)
 
-[Final Project](/final_project.md)
+[Final Project I](/final_project_1.md)
+
+[Final Project II](/final_project_2.md)
