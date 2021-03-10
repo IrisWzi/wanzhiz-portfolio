@@ -24,8 +24,11 @@
 ### User research protocol
 
 Are the charts clear and easy to understand?
+
 Is the current story structure logical?
+
 What would you change about the current design?
+
 What additional information would you add?
 
 [Go back to main page](<https://iriswzi.github.io/wanzhiz-portfolio/>)
