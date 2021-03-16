@@ -15,3 +15,7 @@ I am compeletely new to the field of design and data visualization, but I have a
 [Final Project I](/final_project_1.md)
 
 [Final Project II](/final_project_2.md)
+
+[Final Project III](/final_project_3.md)
+
+[Final Project Shorthand Link](https://carnegiemellon.shorthandstories.com/covid-19-mental-health-crisis/index.html)
