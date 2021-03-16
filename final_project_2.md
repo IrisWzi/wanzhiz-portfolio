@@ -1,4 +1,9 @@
 # Part 2
+
+[Part 1](/final_project_1.md)
+
+[Part 3](/final_project_3.md)
+
 ## Wireframing/Storyboards
 
 [Draft Version](https://preview.shorthand.com/rS24U9w0COy35fCO)
