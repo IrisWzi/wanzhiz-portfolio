@@ -1,4 +1,9 @@
 # Part 1
+
+[Part 2](/final_project_2.md)
+
+[Part 3](/final_project_3.md)
+
 ## Outline
 This project intends to show how the COVID-19 pandemic has affected people's mental health.
 
